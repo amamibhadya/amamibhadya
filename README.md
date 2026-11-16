@@ -83,7 +83,7 @@ A collaborative data engineering project that implements a Lambda architecture f
 
 ## 💼 Experience
 
-**Software Engineering Intern, BotCalm (Pvt) Ltd** (10 months)
+**Software Engineering Intern, BotCalm (Pvt) Ltd** (1 year)
 Built React/TypeScript frontend applications for crypto/Web3 projects, including the company website, working with Three.js, Hygraph CMS and Cloudinary, and collaborating with QA and UI/UX teams.
 
 ## 📫 Get in touch
