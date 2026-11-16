@@ -51,7 +51,23 @@ A web-based e-commerce application developed to provide an online shopping exper
 🔗 [View GitHub Repository](https://github.com/amamibhadya/ECommerce_Frontend)
 
 
-### 3. Smart Grid Lambda Pipeline
+### 3. Flexor – Frontend Web Application
+**Technologies:** React, TypeScript, JavaScript, CSS, UI Component Libraries
+
+A modern frontend web application built using React and TypeScript, focusing on reusable components, structured UI development, and an interactive user experience.
+
+- Developed reusable React components using TypeScript.
+- Implemented responsive and interactive user interface elements.
+- Organized frontend code into maintainable and reusable components.
+- Utilized UI libraries to support consistent interface development.
+
+**Type:** Frontend Development Project
+
+🔗 [View GitHub Repository](https://github.com/amamibhadya/flexor_FE)
+
+
+
+### 4. Smart Grid Lambda Pipeline
 **Technologies:** Python, Apache Kafka, Apache Spark, Apache Airflow, FastAPI, PostgreSQL, MinIO, Docker, Prometheus, Grafana
 
 A collaborative data engineering project that implements a Lambda architecture for smart-grid energy monitoring and billing.
