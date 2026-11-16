@@ -25,7 +25,7 @@ I combine **modern web development** with **machine learning and AI**, building 
 
 **Type:** University Group Project
 
-### 5. HPC XOR Encryption/Decryption Benchmarking System
+### 1. HPC XOR Encryption/Decryption Benchmarking System
 **Technologies:** C, OpenMP, MPI, CUDA, Flask, React
 
 A high-performance computing project comparing different approaches to XOR encryption and decryption.
