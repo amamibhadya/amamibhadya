@@ -23,7 +23,6 @@ I combine **modern web development** with **machine learning and AI**, building 
 
 ## 🚀 Featured projects
 
-**Type:** University Group Project
 
 ### 1. HPC XOR Encryption/Decryption Benchmarking System
 **Technologies:** C, OpenMP, MPI, CUDA, Flask, React
@@ -35,6 +34,20 @@ A high-performance computing project comparing different approaches to XOR encry
 - Explored parallel computing techniques and performance comparison.
 
 🔗 [View GitHub Repository](https://github.com/LahiruWanigasooriya/hpc-project)
+
+
+### 2. Smart Grid Lambda Pipeline
+**Technologies:** Python, Apache Kafka, Apache Spark, Apache Airflow, FastAPI, PostgreSQL, MinIO, Docker, Prometheus, Grafana
+
+A collaborative data engineering project that implements a Lambda architecture for smart-grid energy monitoring and billing.
+
+- Processes real-time smart meter readings using Kafka and Spark Structured Streaming.
+- Implements batch processing workflows using Apache Airflow and Spark.
+- Provides REST APIs and dashboards for energy monitoring and billing insights.
+- Uses Docker for containerized services and Prometheus/Grafana for monitoring and observability.
+
+🔗 [View GitHub Repository](https://github.com/Raviyaa27/smartgrid-lambda-pipeline)
+
 ## 💼 Experience
 
 **Software Engineering Intern, BotCalm (Pvt) Ltd** (10 months)
