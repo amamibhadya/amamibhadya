@@ -33,10 +33,25 @@ A high-performance computing project comparing different approaches to XOR encry
 - Developed a Flask backend and React frontend for presenting benchmarking results.
 - Explored parallel computing techniques and performance comparison.
 
+**Type:** Group Project
+
 🔗 [View GitHub Repository](https://github.com/LahiruWanigasooriya/hpc-project)
 
+### 2. E-Commerce Web Application
+**Technologies:** React, JavaScript, HTML, CSS
 
-### 2. Smart Grid Lambda Pipeline
+A web-based e-commerce application developed to provide an online shopping experience.
+
+- Developed reusable frontend components and interactive user interfaces.
+- Implemented product browsing and shopping-related functionality.
+- Focused on creating a responsive and user-friendly shopping experience.
+
+**Type:** Personal Project
+
+🔗 [View GitHub Repository](https://github.com/amamibhadya/ECommerce_Frontend)
+
+
+### 3. Smart Grid Lambda Pipeline
 **Technologies:** Python, Apache Kafka, Apache Spark, Apache Airflow, FastAPI, PostgreSQL, MinIO, Docker, Prometheus, Grafana
 
 A collaborative data engineering project that implements a Lambda architecture for smart-grid energy monitoring and billing.
@@ -45,6 +60,8 @@ A collaborative data engineering project that implements a Lambda architecture f
 - Implements batch processing workflows using Apache Airflow and Spark.
 - Provides REST APIs and dashboards for energy monitoring and billing insights.
 - Uses Docker for containerized services and Prometheus/Grafana for monitoring and observability.
+
+**Type:** Group Project
 
 🔗 [View GitHub Repository](https://github.com/Raviyaa27/smartgrid-lambda-pipeline)
 
