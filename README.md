@@ -23,11 +23,18 @@ I combine **modern web development** with **machine learning and AI**, building 
 
 ## 🚀 Featured projects
 
-- **[Neureka](https://github.com/amamibhadya/REPLACE-WITH-REPO-NAME)**: Final-year project. A full-stack web app for early Alzheimer's detection that connects a trained PyTorch model to a React/TypeScript frontend, with JWT authentication and DICOM upload support.
-- **[Alzheimer's MRI + PET Fusion](https://github.com/amamibhadya/REPLACE-WITH-REPO-NAME)**: Deep learning model for early Alzheimer's detection using multimodal MRI + PET fusion with region-aware attention over key brain regions.
-- **[Financial Sentiment & Summarization Tool](https://github.com/amamibhadya/REPLACE-WITH-REPO-NAME)**: Group NLP project that analyzes financial text for sentiment and generates summaries.
-- **[Crop Gain](https://github.com/amamibhadya/REPLACE-WITH-REPO-NAME)**: Agriculture full-stack web app built with Next.js, React/TypeScript and MongoDB as a team project.
+**Type:** University Group Project
 
+### 5. HPC XOR Encryption/Decryption Benchmarking System
+**Technologies:** C, OpenMP, MPI, CUDA, Flask, React
+
+A high-performance computing project comparing different approaches to XOR encryption and decryption.
+
+- Worked with serial, multithreaded, distributed, and GPU-accelerated implementations.
+- Developed a Flask backend and React frontend for presenting benchmarking results.
+- Explored parallel computing techniques and performance comparison.
+
+🔗 [View GitHub Repository](https://github.com/LahiruWanigasooriya/hpc-project)
 ## 💼 Experience
 
 **Software Engineering Intern, BotCalm (Pvt) Ltd** (10 months)
